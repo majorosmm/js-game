@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    justify-content:center;
+    align-items:center;
+    font-family: 'Press Start 2P';
+    font-size: 1rem;
+    height: 100%;
+    background-color: #221;
+    text-transform: uppercase;
+    color: #fff090;
+    overflow: hidden;
+
+  }
+
+
+
+svg {
+    border: 2px solid #fff090; /* Változtathatod a vastagságot, a színt és a stílust */
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+
+
+
+
+
+
